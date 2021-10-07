@@ -1,6 +1,7 @@
 # Harris Center Lifeline Calls Analysis
 
-Data Overview
+## Data Overview
+
 As a personal project, I was curious to see what the data for the suicide prevention lifeline for my hometown was. Some questions I had in mind were, how many calls did they recieve? How much staff were there to handle the calls? What's the average waiting time? And so on...
 
 Thus, I made a records request [here](https://www.theharriscenter.org/Public-Information-Request) and requested all their call data.
